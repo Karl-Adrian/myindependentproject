@@ -1,0 +1,63 @@
+/*my first header*/
+.header {
+    color:navy;
+    text-align: center;
+}
+h2 {
+    color: grey;
+}
+
+
+/*Box at the bottom of page*/
+.box {
+    border:10px solid teal;
+}
+
+
+
+.me {
+     background-color:rgba(165, 42, 42, 0.459);
+}
+
+
+body {
+     background-color: burlywood;
+}
+
+
+/*my navi bar*/
+.topnav {
+background-color:rgba(171, 195, 65, 0.575);
+overflow: hidden;
+}
+
+/* my nav bar style */
+.topnav a {
+    float: left;
+    color:lightcoral;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+.topnav a:hover {
+background-color: #ddd;
+color: black;
+}
+
+
+.topnav a.active {
+background-color: #04AA6D;
+color: grey;
+}
+
+
+/*my first image*/
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
