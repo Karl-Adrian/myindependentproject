@@ -2,7 +2,7 @@
 #### {a small portfolio page talking about myself }, {29/09/2021}
 #### By **{Karl Adrian Mutunga}**
 ## Description
-it's a web portfolio page about me,s my interests and my aspirations
+it's a web portfolio page about me, some of my interests and my aspirations
 ## Setup/Installation Requirements
 * click the link and it'll run smoothly
 ## Support and contact details
